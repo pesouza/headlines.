@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3
+#!/root/.local/lib/python3
 
 import feedparser
 from flask import Flask, render_template
